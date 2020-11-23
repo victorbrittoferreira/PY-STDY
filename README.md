@@ -1,2 +1,2 @@
 # PY-STDY
-My beggin
+My.beginning('2020')
